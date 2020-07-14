@@ -1,0 +1,38 @@
+.headtxt{
+    height: 11%;
+    background-color: blue;
+}
+.bodyVal{
+    height: 80%;
+}
+.introText
+{
+    font-size: 110%;
+    text-align: center;
+    color: white;
+    padding-top: 1.5%;
+    font-weight: bold;
+}
+.dobtxt
+{
+    height: 20%;
+    font-size: 110%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+#op1{
+    width: 4%;
+}
+#op2{
+    width: 8%;
+    margin-left: 5%;
+}
+#op3{
+    width: 4%;
+    margin-left: 5%;
+}
+#b{
+    margin-top: 3%;
+    width: 8%;
+    margin-left: 5%;
+}
